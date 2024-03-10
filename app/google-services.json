@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262463083320",
+    "project_id": "memory-68b52",
+    "storage_bucket": "memory-68b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262463083320:android:33c97dda74d1e7860f27cd",
+        "android_client_info": {
+          "package_name": "com.bachir.mymemory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jgA_vWn43w6BvkvAh9PWSSDIKB5H3Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
